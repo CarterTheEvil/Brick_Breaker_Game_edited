@@ -1,0 +1,54 @@
+# Brick Breaker Game
+
+![Logo](assets/favicon.png)
+
+A simple brick breaker game built with pygame in python.
+
+---
+
+## Download Pre-built Binary
+
+You can download the pre-compiled game.
+- [For Windows](https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame/raw/refs/heads/main/dist/brick_breaker_game-v1.0-windows.exe)
+
+## How to Play
+ - Clear all brick to win the game.
+ - If lost all lifeline then you lost the game.
+ - Move Paddle to save the ball fall below the paddle.
+ - All movements control by keyboard keys.
+
+#### Controls
+ - **Enter**: To start the game.
+ - **Del**: To reset the game.
+ - **Left/Right**: Move Paddle horizontally.
+ - **Up**: Change angle of shooting side clockwise.
+ - **Down**: Change angle of shooting side anti-clockwise.
+ - **Space**: Pause and Play the game.
+ - **Esc**: To withdraw from round and loose a lifeline.
+ - **F11**: For toggle full-screen mode.
+
+---
+
+## From Source
+
+### Clone or download this repository
+ - **For Clone :-**
+```bash
+git clone https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame.git
+```
+
+### Requirements
+
+* **Python 3.6 or higher:** Ensure you have a compatible version of Python installed.
+* **Required Python Libraries:** Need to install Pygame library using pip.
+
+### Install Required Python Libraries:
+
+Navigate to the program's directory in your terminal and install the necessary libraries using pip:
+
+```bash
+   cd program_directory
+   pip install -r requirements.txt
+```
+
+**Play the game directly with python or compile with PyInstaller library and then play.**
