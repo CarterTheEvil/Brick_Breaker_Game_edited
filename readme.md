@@ -9,7 +9,7 @@ A simple brick breaker game built with pygame in python.
 ## Download Pre-built Binary
 
 You can download the pre-compiled game.
-- [For Windows](https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame/raw/refs/heads/main/dist/brick_breaker_game-v1.0-windows.exe)
+- [For Windows](https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame/releases/download/v1.0.0/brick_breaker_game-v1.0-windows.exe)
 
 ## How to Play
  - Clear all brick to win the game.
