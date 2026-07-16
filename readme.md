@@ -52,3 +52,11 @@ Navigate to the program's directory in your terminal and install the necessary l
 ```
 
 **Play the game directly with python or compile with PyInstaller library and then play.**
+
+---
+
+## License
+
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+
+---
