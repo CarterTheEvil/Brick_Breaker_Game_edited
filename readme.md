@@ -1,14 +1,7 @@
-# Brick Breaker Game
+# Brick Breaker Game edited
 ## Orignaly made by https://github.com/akarshit-1609
 A simple brick breaker game built with pygame in python.
-
----
-
-## Download Pre-built Binary
-
-You can download the pre-compiled game.
-- [For Windows](https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame/releases/download/v1.0.0/brick_breaker_game-v1.0-windows.exe)
-- [For Linux (AppImage)](https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame/releases/download/v1.0.0/Brick_Breaker_Game_glibc-2.31_linux-x86_64.AppImage)
+-------------------------------------------------------
 
 ## How to Play
  - Clear all brick to win the game.
