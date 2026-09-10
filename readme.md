@@ -2,6 +2,7 @@
 ## Orignaly made by https://github.com/akarshit-1609
 A simple brick breaker game built with pygame in python.
 -------------------------------------------------------
+![Logo](assets/favicon.png)
 
 ## How to Play
  - Clear all brick to win the game.
