@@ -1,7 +1,5 @@
 # Brick Breaker Game
-
-![Logo](assets/favicon.png)
-
+## Orignaly made by https://github.com/akarshit-1609
 A simple brick breaker game built with pygame in python.
 
 ---
@@ -31,14 +29,6 @@ You can download the pre-compiled game.
 
 ---
 
-## From Source
-
-### Clone or download this repository
- - **For Clone :-**
-```bash
-git clone https://github.com/akarshit-1609/Brick_Breaker_Game_using_Pygame.git
-```
-
 ### Requirements
 
 * **Python 3.6 or higher:** Ensure you have a compatible version of Python installed.
@@ -57,8 +47,3 @@ Navigate to the program's directory in your terminal and install the necessary l
 
 ---
 
-## License
-
-This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
-
----
