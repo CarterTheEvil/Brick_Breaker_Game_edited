@@ -3,7 +3,7 @@ import math
 
 pygame.init()
 window = pygame.display.set_mode((800, 400))
-pygame.display.set_caption("Brick Breaker")
+pygame.display.set_caption("--Brick Breaker edit--")
 clock = pygame.time.Clock()
 
 window_icon = pygame.image.load("assets/favicon.png")
@@ -251,10 +251,10 @@ class Statistics:
         window.blit(self.pause, ((window_width/2)-(width/2), 10))
     def final_result(self, win):
         if win:
-            result = "You Win"
+            result = "You Win!"
             color = (0, 255, 0)
         else:
-            result = "You Loss! Your Score is " + str(self.score)
+            result = "You Losed :( Your Score is: " + str(self.score)
             color = (255, 0, 0)
         font = pygame.font.Font(None, 50)
         text = font.render(result, False, color)
